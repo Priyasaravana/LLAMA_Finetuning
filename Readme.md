@@ -3,6 +3,7 @@ GPT2
 LLAMA
 LLAMA2
 GPT3
+GPT4
 
 Finetuning options:
 Transfer learning
